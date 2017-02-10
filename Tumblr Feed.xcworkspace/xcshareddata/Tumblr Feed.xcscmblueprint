@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "587E1F5E9FB558A834596B315F8B16A36F2A5C51",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "587E1F5E9FB558A834596B315F8B16A36F2A5C51" : 9223372036854775807,
+    "314A3D9595D143A0CBB57308453D220A0958BCD5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "550C87D6-69E9-4E31-A4A3-3F85C9A81C30",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "587E1F5E9FB558A834596B315F8B16A36F2A5C51" : "Tumblr%20Feed\/",
+    "314A3D9595D143A0CBB57308453D220A0958BCD5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tumblr Feed",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tumblr Feed.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nanxinjin\/iOS-OSX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "314A3D9595D143A0CBB57308453D220A0958BCD5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nanxinjin\/Tumblr-Feed.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "587E1F5E9FB558A834596B315F8B16A36F2A5C51"
+    }
+  ]
+}
